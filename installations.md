@@ -12,3 +12,11 @@
 * Intellij-Idea-CE
 * Sublime Text
 * AWSCLI
+
+# <h1 style='text-align:center;'>Sign-ups</h1>
+
+* GitHub
+* GoDaddy - need to still buy when doing production use cases
+* Docker Hub - using Google auto-login
+* Sonar Cloud - signed up via GitHub account
+* AWS - 
