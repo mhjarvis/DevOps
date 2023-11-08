@@ -20,3 +20,5 @@
 * Docker Hub - using Google auto-login
 * Sonar Cloud - signed up via GitHub account
 * AWS - 
+
+Currently on 21:00 minutes, linking aws to domain under AWS setup
